@@ -102,5 +102,6 @@ Se llama Nuty L.A.B.S.
 Hacemos los mejores teclados del mundo! ;)
 <br>
 </div>
+<a href="https://www.nutylabs.com">www.nutylabs.com</a>
 <a href="https://www.instagram.com/nutylabs/">instagram.com/nutylabs</a>
 <p align="center"> 
