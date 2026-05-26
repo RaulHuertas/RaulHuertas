@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Raul Huertas </h1>
 <h3 align="center">Ingeniero Electrónico</h3>
-<h3 align="center">Desarrollador de software: Sistemas embebidos y Aplicaciones Web</h3>
+<h3 align="center">Desarrollador de software: Sistemas Embebidos y Aplicaciones Web</h3>
 
 <p align="center">
   <a href="mailto:rax20037@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
