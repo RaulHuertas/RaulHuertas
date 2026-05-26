@@ -20,7 +20,7 @@
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM244ZW9qdHd2Z3UxcWRiZm14eWpsdzA0eXVmd3h2YjQ1MnlvbHQwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rENZV0vZmeO0kX0Mac/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
 <br>
