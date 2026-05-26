@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Raul Huertas </h1>
 <h3 align="center">Ingeniero Electrónico</h3>
-<h3 align="center">Desarrollador de software: Aplicaciones Web y Sistemas embebidos</h3>
+<h3 align="center">Desarrollador de software: Sistemas embebidos y Aplicaciones Web</h3>
 
 <p align="center">
   <a href="mailto:rax20037@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -14,9 +14,8 @@
   <legend align="left"><h3>‍ Sobre Mí</h3></legend>
 
   <em>
-
-  Soy ingeniero electrónico. Me gusta trabajar en desarrollo de proyectos electrónicos. FPGAs, microcontroladores o periféricos para PC.
-  También me dedico al desarrollo de aplicaciones web 'Fullstack'
+  Soy ingeniero electrónico. Me gusta trabajar en desarrollo de proyectos de software y electrónica. FPGAs, microcontroladores o periféricos para PC.
+  También me dedico al desarrollo de aplicaciones web 'Fullstack'.
   </em> 
   <br>
 <div align= "center">
@@ -57,20 +56,20 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Librerías/FrameWorks</kbd>
     <br>
     <br>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
           
   </kbd>
   <kbd>
@@ -78,8 +77,8 @@
     <br>
     <br>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
     <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
