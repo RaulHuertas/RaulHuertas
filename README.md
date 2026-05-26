@@ -20,7 +20,7 @@
   <br>
 <div align= "center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM244ZW9qdHd2Z3UxcWRiZm14eWpsdzA0eXVmd3h2YjQ1MnlvbHQwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rENZV0vZmeO0kX0Mac/giphy.gif" width="50"/> 
-  <b><i>Tecnologías en uso</i></b> 
+  <b><i>Tecnologías con las que trabajo</i></b> 
 </div>
 
 <br>
@@ -83,7 +83,7 @@
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   </kbd>
   <br>
 </div>
@@ -92,6 +92,10 @@
 <br>
 <br>
 
--  Contato: **rax20037@gmail.com**
+-  Contacto: **rax20037@gmail.com**
 
+<div>
+También tengo un negocio de impresión 3D y teclados personalizables. Hacemos los mejores teclados del mundo! ;)
+</div>
+<img src="https://www.instagram.com/nutylabs/">
 <p align="center"> 
