@@ -96,8 +96,11 @@
 
 <div>
 También tengo un negocio de impresión 3D y teclados personalizables. 
+<br>
 Se llama Nuty L.A.B.S.
+<br>
 Hacemos los mejores teclados del mundo! ;)
+<br>
 </div>
 <a href="https://www.instagram.com/nutylabs/">instagram.com/nutylabs</a>
 <p align="center"> 
