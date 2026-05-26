@@ -95,7 +95,9 @@
 -  Contacto: **rax20037@gmail.com**
 
 <div>
-También tengo un negocio de impresión 3D y teclados personalizables. Hacemos los mejores teclados del mundo! ;)
+También tengo un negocio de impresión 3D y teclados personalizables. 
+Se llama Nuty L.A.B.S.
+Hacemos los mejores teclados del mundo! ;)
 </div>
-<img src="https://www.instagram.com/nutylabs/">
+<a href="https://www.instagram.com/nutylabs/">instagram.com/nutylabs</a>
 <p align="center"> 
